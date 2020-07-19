@@ -33,23 +33,23 @@ On March 16, 2020, all in-person classes at the University of Toronto's campuses
 
 [View Official Progress Map](https://www.google.com/maps/d/edit?mid=19XQvdE5Zg84CSFlW12FM_mKLx5IIvbt4&usp=sharing)
 
-| Area/Building                | Completion Status                    | 
-|:-----------------------------|:-------------------------------------|
-| Deerfield Hall (DH)          | <div class="code-example" markdown="1"> Completed {: .label .label-green }  </div> | 
-| Maanjiwe nendamowinan (MN)   | In-Progress {: .label .label-yellow }| 
-| Erindale Theatre             | In-Progress {: .label .label-yellow }| 
-| Principal Road 1             | Upcoming {: .label .label-blue }     | 
-| Liselhurst                   | Incomplete {: .label .label-red }    | 
-| Instructional Centre (IB)    | Upcoming {: .label .label-blue }     | 
-| Liselhurst                   | Incomplete {: .label .label-red }    | 
-| Library (HM)                 | Incomplete {: .label .label-red }    |  
-| CCT + CCT Link               | Incomplete {: .label .label-red }    | 
-| Davis (DV)                   | Incomplete {: .label .label-red }    | 
-| RAWC                         | Incomplete {: .label .label-red }    | 
-| Kaneff (KN)                  | Incomplete {: .label .label-red }    | 
-| Student Centre (XR)          | Incomplete {: .label .label-red }    | 
-| Academic Annex               | Incomplete {: .label .label-red }    | 
-| Residences (OPH)             | Incomplete {: .label .label-red }    | 
-| Residences (Erindale)        | Incomplete {: .label .label-red }    | 
-| Residences (Townhouses)      | Incomplete {: .label .label-red }    | 
+| Area/Building                | Completion Status    | 
+|:-----------------------------|:---------------------|
+| Deerfield Hall (DH)          | Completed            | 
+| Maanjiwe nendamowinan (MN)   | In-Progress          | 
+| Erindale Theatre             | In-Progress          | 
+| Principal Road 1             | Upcoming             | 
+| Liselhurst                   | Incomplete           | 
+| Instructional Centre (IB)    | Upcoming             | 
+| Liselhurst                   | Incomplete           | 
+| Library (HM)                 | Incomplete           |  
+| CCT + CCT Link               | Incomplete           | 
+| Davis (DV)                   | Incomplete           | 
+| RAWC                         | Incomplete           | 
+| Kaneff (KN)                  | Incomplete           | 
+| Student Centre (XR)          | Incomplete           | 
+| Academic Annex               | Incomplete           | 
+| Residences (OPH)             | Incomplete           | 
+| Residences (Erindale)        | Incomplete           | 
+| Residences (Townhouses)      | Incomplete           | 
 
