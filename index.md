@@ -35,12 +35,12 @@ On March 16, 2020, all in-person classes at the University of Toronto's campuses
 
 | Area/Building                | Completion Status    | 
 |:-----------------------------|:---------------------|
-| Deerfield Hall (DH)          | Completed            | 
-| Maanjiwe nendamowinan (MN)   | In-Progress          | 
-| Erindale Theatre             | In-Progress          | 
-| Principal Road 1             | Upcoming             | 
+| Deerfield Hall (DH)          | <div class="bg-green-light mb-2">Completed</div>            | 
+| Maanjiwe nendamowinan (MN)   | <div class="bg-yellow mb-2">In-Progress</div>         | 
+| Erindale Theatre             | <div class="bg-yellow mb-2">In-Progress</div>          | 
+| Principal Road 1             | <div class="text-white bg-blue mb-2">Upcoming</div>             | 
 | Liselhurst                   | Incomplete           | 
-| Instructional Centre (IB)    | Upcoming             | 
+| Instructional Centre (IB)    | <div class="text-white bg-blue mb-2">Upcoming</div>             | 
 | Liselhurst                   | Incomplete           | 
 | Library (HM)                 | Incomplete           |  
 | CCT + CCT Link               | Incomplete           | 
