@@ -16,7 +16,7 @@
 title: Project UTMC
 description: Bringing the university campus to the world of Minecraft during a time when we can't be there in-person.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jonhoofficial.github.io/project-utmc/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jonhoofficial.github.io/project-utmc" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
