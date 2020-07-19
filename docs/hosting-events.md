@@ -8,7 +8,7 @@ nav_order: 2
 {: .no_toc }
 
 
-Want to host an event on Project UTMC
+Want to host an event on Project UTMC?
 {: .fs-6 .fw-300 }
 
 ## Table of contents
