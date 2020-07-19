@@ -22,7 +22,7 @@ Server IP: mc.white-van.xyz
 
 ## About this Project
 
-Project UTMC is a student-run project to build the University of Toronto Mississauga campus on Minecraft that can be accessed by anyone and at any time. 
+Project UTMC is a student-run project to build the University of Toronto Mississauga campus on Minecraft that can be accessed by anyone and at any time.
 
 **But why? I could just visit the campus in-person...** Well to provide some context...  
 On March 16, 2020, all in-person classes at the University of Toronto's campuses were cancelled due to the COVID-19 pandemic. Furthermore, all university buildings were closed to the general public the following day. Since then, many students are unable to return to campus during this time and graduating students were unable to see campus for possibly the last time during their study years. This provided us an opportunity to bring the campus experience virtually to students and faculty.
@@ -33,23 +33,22 @@ On March 16, 2020, all in-person classes at the University of Toronto's campuses
 
 [View Official Progress Map](https://www.google.com/maps/d/edit?mid=19XQvdE5Zg84CSFlW12FM_mKLx5IIvbt4&usp=sharing)
 
-| Area/Building                | Completion Status    | 
+| Area/Building                | Completion Status    |
 |:-----------------------------|:---------------------|
-| Deerfield Hall (DH)          | <div class="bg-green-light mb-2">Completed</div>            | 
-| Maanjiwe nendamowinan (MN)   | <div class="bg-yellow mb-2">In-Progress</div>         | 
-| Erindale Theatre             | <div class="bg-yellow mb-2">In-Progress</div>          | 
-| Principal Road 1             | <div class="text-white bg-blue mb-2">Upcoming</div>             | 
-| Liselhurst                   | Incomplete           | 
-| Instructional Centre (IB)    | <div class="text-white bg-blue mb-2">Upcoming</div>             | 
-| Liselhurst                   | Incomplete           | 
+| Deerfield Hall (DH)          | **Completed**        |
+| Maanjiwe nendamowinan (MN)   | **In-Progress**      |
+| Erindale Theatre             | **In-Progress**      |
+| Principal Road 1             | *Upcoming*           |
+| Liselhurst                   | Incomplete           |
+| Instructional Centre (IB)    | *Upcoming*           |
+| Liselhurst                   | Incomplete           |
 | Library (HM)                 | Incomplete           |  
-| CCT + CCT Link               | Incomplete           | 
-| Davis (DV)                   | Incomplete           | 
-| RAWC                         | Incomplete           | 
-| Kaneff (KN)                  | Incomplete           | 
-| Student Centre (XR)          | Incomplete           | 
-| Academic Annex               | Incomplete           | 
-| Residences (OPH)             | Incomplete           | 
-| Residences (Erindale)        | Incomplete           | 
-| Residences (Townhouses)      | Incomplete           | 
-
+| CCT + CCT Link               | Incomplete           |
+| Davis (DV)                   | Incomplete           |
+| RAWC                         | Incomplete           |
+| Kaneff (KN)                  | Incomplete           |
+| Student Centre (XR)          | Incomplete           |
+| Academic Annex               | Incomplete           |
+| Residences (OPH)             | Incomplete           |
+| Residences (Erindale)        | Incomplete           |
+| Residences (Townhouses)      | Incomplete           |
