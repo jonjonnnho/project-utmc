@@ -39,4 +39,4 @@ Coming Soon
 
 ## How do I apply?
 
-Talk to one of the admins on the UTM Whit Van Discord server.
+Talk to one of the admins on the UTM White Van Discord server.

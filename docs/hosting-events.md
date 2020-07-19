@@ -30,7 +30,7 @@ Events that are one or more of the following may require approval from the Proje
 ## What type of events can be hosted?
 The following types of events are permitted on the server:
 * Graduation Ceremony
-* Challenges/"Hackatons"
+* Challenges/"Hack-a-thons"
 * Competitions (ie. Building Competitions)
 * Tours/Virtual Open Houses
 * More Coming Soon
@@ -47,4 +47,4 @@ Coming Soon
 
 ## Interested in Hosting an Event?
 
-Talk to one of the admins on the UTM Whit Van Discord server.
+Talk to one of the admins on the UTM White Van Discord server.
