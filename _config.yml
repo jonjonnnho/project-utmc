@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Project UTMC
-description: A Jekyll theme for documentation
+description: Bringing the university campus to the world of Minecraft during a time when we can't be there in-person.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jonhoofficial.github.io/project-utmc/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -56,11 +56,11 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "Join UTM White Van on Discord":
+    - "//white-van.xyz"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # Sort order for navigation links
 nav_sort: case_insensitive # default, equivalent to nil
@@ -73,7 +73,7 @@ nav_sort: case_insensitive # default, equivalent to nil
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2020 UTM White Van. Template: Just the Docs. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+footer_content: "Copyright &copy; 2020 UTM White Van. This project not associated to the University of Toronto nor its affiliates and student-run clubs. This project is managed by the UTM White Van community group."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -93,7 +93,7 @@ color_scheme: nil
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: UA-2709176-10
+ga_tracking: UA-172999858-1
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
