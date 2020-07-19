@@ -29,4 +29,27 @@ On March 16, 2020, all in-person classes at the University of Toronto's campuses
 
 ### Our Progress
 
-https://www.google.com/maps/d/edit?mid=19XQvdE5Zg84CSFlW12FM_mKLx5IIvbt4&usp=sharing
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=19XQvdE5Zg84CSFlW12FM_mKLx5IIvbt4" width="640" height="480"></iframe>
+
+[View Official Progress Map](https://www.google.com/maps/d/edit?mid=19XQvdE5Zg84CSFlW12FM_mKLx5IIvbt4&usp=sharing)
+
+| Area/Building                | Completion Status                    | 
+|:-----------------------------|:-------------------------------------|
+| Deerfield Hall (DH)          | Completed {: .label .label-green }   | 
+| Maanjiwe nendamowinan (MN)   | In-Progress {: .label .label-yellow }| 
+| Erindale Theatre             | In-Progress {: .label .label-yellow }| 
+| Principal Road 1             | Upcoming {: .label .label-blue }     | 
+| Liselhurst                   | Incomplete {: .label .label-red }    | 
+| Instructional Centre (IB)    | Upcoming {: .label .label-blue }     | 
+| Liselhurst                   | Incomplete {: .label .label-red }    | 
+| Library (HM)                 | Incomplete {: .label .label-red }    |  
+| CCT + CCT Link               | Incomplete {: .label .label-red }    | 
+| Davis (DV)                   | Incomplete {: .label .label-red }    | 
+| RAWC                         | Incomplete {: .label .label-red }    | 
+| Kaneff (KN)                  | Incomplete {: .label .label-red }    | 
+| Student Centre (XR)          | Incomplete {: .label .label-red }    | 
+| Academic Annex               | Incomplete {: .label .label-red }    | 
+| Residences (OPH)             | Incomplete {: .label .label-red }    | 
+| Residences (Erindale)        | Incomplete {: .label .label-red }    | 
+| Residences (Townhouses)      | Incomplete {: .label .label-red }    | 
+
